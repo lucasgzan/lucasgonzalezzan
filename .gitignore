@@ -4,7 +4,7 @@
 # ignore ALL files in ANY directory named temp
 temp/
 
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized 
 __pycache__/
 *.py[cod]
 
